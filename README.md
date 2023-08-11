@@ -1,6 +1,6 @@
 # Deep-Learning-for-Sewage-Treatment-Plant
 Deep learning can be applied to various aspects of sewage treatment plants, from predicting performance indicators to optimizing operations.
-Deep learning can be applied to various aspects of sewage treatment plants, from predicting performance indicators to optimizing operations. Here's an overview of how deep learning can be used in the context of sewage treatment plants:
+
 
   **  Performance Prediction:**
     Deep learning models, particularly neural networks, can be trained to predict various performance indicators of sewage treatment plants based on historical data. These indicators can include the concentration of pollutants, the quality of treated water, and the efficiency of the treatment process.
